@@ -276,14 +276,3 @@ while(True):
     T = h * T
 
     print('Xbest:'+str(Xbest))
-
-
-
-
-
-
-Risultati del modello (tren/test):
-Perdita: -1,83 / -1,75
-Precisione binaria: 0,89 / 0,89
-Violazione dello spazio: 0,05 / 0,06
-Sovraprezzo: 0,12 / 0,14
